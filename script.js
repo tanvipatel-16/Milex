@@ -1,5 +1,5 @@
 /* ===================================================
-   MILEX REALTY — Interactive Features & Animations
+   MILEX CONSTRUCTION — Interactive Features & Animations
    =================================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
